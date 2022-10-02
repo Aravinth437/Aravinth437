@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Aravinth
+## Hey there 👋 I'm Aravinth
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: People call me Arav, AirWind and most of them often misspell my name Aravinth as Aravind 🙃
 
