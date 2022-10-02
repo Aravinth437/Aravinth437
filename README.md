@@ -1,7 +1,7 @@
-### Hi there 👋
-### This is Aravinth
+## Hi there 👋
+## This is Aravinth
 
-## 😄 Pronouns: he/him
+### 😄 Pronouns: he/him
 <!--
 **Aravinth437/Aravinth437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
