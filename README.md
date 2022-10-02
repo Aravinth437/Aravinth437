@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Aravinth
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: People call me Arav, AirWind and most of them often misspell my name Aravinth as Aravind.
+- ⚡ Fun fact: People call me Arav, AirWind and most of them often misspell my name Aravinth as Aravind 🙃
 <!--
 **Aravinth437/Aravinth437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
